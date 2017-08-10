@@ -46,7 +46,7 @@ public class PiDigits {
             }
         }
         
-        System.out.println("UNIR");
+        
         int ind = 0;
         
         while (ind < digits.length){
